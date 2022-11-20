@@ -1,0 +1,21 @@
+.nav-bar-container{
+    width: 100%;
+    background: green;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-side-container strong{
+    margin-left: 10px;
+}
+
+.right-side-container{
+    display: flex;
+    margin-right: 10px;
+}
+
+.right-side-container p{
+    padding: 0px 5px;
+}
